@@ -1,0 +1,15 @@
+C:\Users\zubar\source\repos\PR3\PR3\bin\Debug\PR3.exe.config
+C:\Users\zubar\source\repos\PR3\PR3\bin\Debug\PR3.exe
+C:\Users\zubar\source\repos\PR3\PR3\bin\Debug\PR3.pdb
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3.csproj.AssemblyReference.cache
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\MainWindow.g.cs
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\App.g.cs
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3_MarkupCompile.cache
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3_MarkupCompile.lref
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\MainWindow.baml
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3.g.resources
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3.Properties.Resources.resources
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3.csproj.GenerateResource.cache
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3.exe
+C:\Users\zubar\source\repos\PR3\PR3\obj\Debug\PR3.pdb
